@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_insert_left
+ * binary_tree_insert_left - Create Binary Tree Node
  * @parent: pointer to the node to insert the left child
  * @value: is the value to store in the new mode
  *
