@@ -7,10 +7,6 @@
  * Return: 0 if tree is NULL
  */
 
-/* balance factor is Height of right subtree minus height of it's left
-/* subtree and node w/ balance factor of 1, 0, or -1
-*/
-
 int binary_tree_balance(const binary_tree_t *tree)
 {
 	int lh, rh, bal;
