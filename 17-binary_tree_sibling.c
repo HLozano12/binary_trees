@@ -9,7 +9,7 @@
 
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 {
-	// If node NULL or Parent Is NULL
+	/* If node NULL or Parent Is NULL */
 	if ((node == NULL) || (node->parent == NULL))
 		return (NULL);
 
